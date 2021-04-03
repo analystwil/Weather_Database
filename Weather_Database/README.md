@@ -2,8 +2,6 @@
 
 ## Project Plan
 
-### Basic Project Plan
-
 Here's an outline of the project plan:
 
 - Task: Collect and analyze weather data across cities worldwide.
